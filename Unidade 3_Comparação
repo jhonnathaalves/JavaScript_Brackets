@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>Aulas de Javascript</title>
+        <script>
+            var a = 5;
+            var b = 5;
+            
+            if (a == b) {
+                alert("Eles sao iguais")
+            } else {
+                alert("eles são diferentes")
+            }
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
