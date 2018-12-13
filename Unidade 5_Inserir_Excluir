@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Aulas de Javascript</title>
+        <script>
+            var salada = ["Uva","Banana","Pera"] ;
+            
+            
+            //Adição no final do Array
+            
+            salada.push("Mamao");
+            
+            //Adição no Inicio do Array
+            
+            salada.unshift("Laranja"); 
+            
+             //excluir o ultimo elemento
+            
+            salada.pop();
+            
+            // excluir primeiro elemento
+            
+            salada.shift();
+            
+            
+            console.log(salada);
+            console.log("Numero de Elementos: " + salada.length);
+            
+         
+            
+        </script>
+    </head>
+    <body>
+        
+    </body>
+</html>
